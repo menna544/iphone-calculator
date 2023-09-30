@@ -13,7 +13,7 @@ body {
 
 .calc {
   background-color: black;
-  margin-top: 270px;
+  margin-top: 100px;
   height: 100%;
 }
 
@@ -72,7 +72,6 @@ body {
 
 .persent-sign {
   background-color: #a5a5a5;
-  ;
   border: none;
   color: black;
 }
@@ -151,7 +150,7 @@ body {
 
   .calc {
     background-color: black;
-    margin-top: 270px;
+    margin-top: 150px;
     height: 70%;
   }
 
